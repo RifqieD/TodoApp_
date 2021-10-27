@@ -1,7 +1,8 @@
-package com.example.todoapp_160417065
+package com.example.todoapp_160417065.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.todoapp_160417065.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
